@@ -1,0 +1,10 @@
+table.table-user {
+    border-radius: 80px;
+    /* ou toute autre valeur de rayon de votre choix */
+  }
+  
+  table.table-bordered {
+    border-radius: 80px;
+  }
+  
+  
