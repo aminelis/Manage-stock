@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUUVqqxyzpDKXllPiS7taw9YNt7AaqJ/GILBKU9tg1SXwlQr3r07WDH2tCkwubbyQH9vJYvJ/jsT1KN4+ryLtQ==",
+  "dgSpecHash": "IanzCzxhFha8jlGCavpH3E2O1GvylSar9eOboYBIsux3mDUhfHymfUjgtEnIdCTkPOrjoe0snBoj+OFrut6NfA==",
   "success": true,
-  "projectFilePath": "/home/amine/backend/project/NomDuProjet/NomDuProjet.csproj",
+  "projectFilePath": "/home/amine/Manage-stock/BE/NomDuProjet.csproj",
   "expectedPackageFiles": [
     "/home/amine/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/amine/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

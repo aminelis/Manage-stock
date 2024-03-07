@@ -4049,11 +4049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/amine/backend/project/NomDuProjet/NomDuProjet.csproj",
+      "projectUniqueName": "/home/amine/Manage-stock/BE/NomDuProjet.csproj",
       "projectName": "NomDuProjet",
-      "projectPath": "/home/amine/backend/project/NomDuProjet/NomDuProjet.csproj",
+      "projectPath": "/home/amine/Manage-stock/BE/NomDuProjet.csproj",
       "packagesPath": "/home/amine/.nuget/packages/",
-      "outputPath": "/home/amine/backend/project/NomDuProjet/obj/",
+      "outputPath": "/home/amine/Manage-stock/BE/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/amine/.nuget/NuGet/NuGet.Config"
